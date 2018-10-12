@@ -1,0 +1,11 @@
+﻿100,Buy,2500.5,5,Working
+101,Sell,3000.75,100,Working
+102,Buy,1956.15,12,Working
+103,Buy,2001,88,Working
+104,Sell,2800,31,Working
+101,Sell,3000.75,50,Working
+105,Buy,1940.4,9,Working
+102,Buy,1956.15,12,Canceled
+100,Buy,2500.5,5,Filled
+106,Sell,7102,1,Working
+101,Sell,3000.75,50,Filled
